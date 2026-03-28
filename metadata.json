@@ -1,0 +1,5 @@
+{
+  "name": "Fixigo",
+  "description": "A modern responsive website for electrical home services with booking and admin dashboard.",
+  "requestFramePermissions": ["geolocation"]
+}
